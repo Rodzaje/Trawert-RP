@@ -1,0 +1,22 @@
+<meta>
+    <info type="script" name="Klasy Postaci" author="Rodzaje" version="1.0.0" description="Stworzony przez Rodzaje w pocie czoła"></info>
+	<file src = "KlasyPostaci/ROZRYWKOWA.png" />
+	<file src = "KlasyPostaci/PRZESTEPCZA.png" />
+	<file src = "KlasyPostaci/POLITYCZNA.png" />
+	<file src = "KlasyPostaci/BIZNESOWA.png" />
+	<file src = "KlasyPostaci/AndikaNewBasic-BoldItalic.ttf" />
+	<script src="domy.lua" type="client" />
+	<script src="client.lua" type="client" />
+	<script src="zapis.lua" type="server" />
+	<script src="dxGridlists.lua" type="client" />
+<oop>true</oop>
+
+	<file src = "staty/book_icon.png" />
+	<file src = "staty/dolar.png" />
+	<file src = "staty/job_wigget_off.png" />
+	<file src = "staty/level2.png" />
+	<file src = "staty/level3.png" />
+	<file src = "staty/upgrade_engine.png" />
+	<file src = "staty/x.png" />
+	<file src = "staty/AndikaNewBasic-Italic.ttf" />
+</meta>

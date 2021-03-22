@@ -1,0 +1,22 @@
+<meta>
+    <info author="Rodzaje" version="1.0.3" name="Przechodnie" description="Interakcja między NPC a ludźmi" type="misc"/>
+
+    <script src="bot_c.lua" type="client"/>
+    <script src="bot_s.lua" type="server" />
+    <script src="client.lua" type="client"/>
+    <include resource="slothbot" />
+
+	<file src = "pedy/circle.png" />
+	<file src = "pedy/Roboto-BoldItalic.ttf" />
+	<file src = "pedy/AndikaNewBasic-Regular.ttf" />
+	<file src="f/droid-sans.ttf" cache="false"/>
+	<file src="f/ArialCE.ttf" cache="false"/>
+
+	<file src = "rozmowa/ak47icon.png" />
+	<file src = "rozmowa/AndikaNewBasic-Bold.ttf" />
+	<file src = "rozmowa/info.png" />
+	<file src = "rozmowa/nvgogglesicon.png" />
+	<file src = "rozmowa/right.png" />
+	<file src = "rozmowa/Sarina.png" />
+	<file src = "rozmowa/SPRAYCANicon.png" />
+</meta>

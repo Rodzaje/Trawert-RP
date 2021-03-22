@@ -1,0 +1,32 @@
+<meta>
+
+	<script src="Animacje/moving.lua" type="client" />
+
+ <file src='Legalne/legalne.png'/> 
+ <file src='Legalne/legalne1.png'/> 
+ <file src='Legalne/nielegalne.png'/> 
+<file src='Legalne/nielegalne1.png'/>
+ <file src='Legalne/Alatsi-Regular.ttf'/>  
+
+
+	<file src="Dostawcy/Roboto-Medium.ttf"/>
+	<file src="Dostawcy/Roboto-ThinItalic.ttf"/>
+
+	<script src="s_job.lua" type="server" />
+	
+	<file src="Dostawcy/ustaweienia.png"/>
+	<file src="Dostawcy/trozpocznmi.png"/>
+	<file src="Dostawcy/staty.png"/>
+	<file src="Dostawcy/market_teng.png"/>
+	<file src="Dostawcy/zamknij.png"/>
+	<file src="Dostawcy/powort.png"/>
+	<script src="c_job.lua" type="client" />
+	<file src="Dostawcy/rectangle.png"/>
+
+	<file src="Auta/tuning.png"/>
+	<file src="Auta/benson.png"/>
+	<file src="Auta/bobcat.png"/>
+	<file src="Auta/buy.png"/>
+	<file src="Auta/yosemite.png"/>
+	<file src="Auta/pojazd.png"/>
+</meta>
